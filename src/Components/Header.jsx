@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Navbar, Container, Nav, FormControl, Form, Button } from 'react-bootstrap';
 // import Switch from 'react-bootstrap/esm/Switch';
 import logo from './logo192.png';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, } from 'react-router-dom';
 import Home from '../Pages/Home';
 import About from '../Pages/About';
 import Contacts from '../Pages/Contacts';
